@@ -1,5 +1,5 @@
 # Description
-Thi is a classrom module for python class
+Thi is a classroom module for python class
 
 # Installation
 1. python setup.py install
